@@ -1,0 +1,11 @@
+{
+  "name":"SSC CGL / CHSL Maths Practice Portal",
+  "short_name":"SSC Maths",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f3f6fb",
+  "theme_color":"#3559e8",
+  "description":"PDF-based SSC CGL / CHSL Maths practice portal with chapter practice, CBT tests, saved errors, analytics and concept mastery.",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}],
+  "scope":"./"
+}
