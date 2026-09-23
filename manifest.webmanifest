@@ -1,0 +1,12 @@
+{
+  "name": "SSC CGL / CHSL Maths Practice Portal",
+  "short_name": "SSC Maths",
+  "description": "Offline SSC CGL / CHSL Maths practice portal with CBT tests, errors, analytics and mastery tracking.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#3559e8",
+  "orientation": "any",
+  "icons": []
+}
